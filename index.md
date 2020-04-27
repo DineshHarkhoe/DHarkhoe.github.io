@@ -9,5 +9,3 @@
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](google.com) and ![Image](http://cdn.onlinewebfonts.com/svg/img_499307.png)
